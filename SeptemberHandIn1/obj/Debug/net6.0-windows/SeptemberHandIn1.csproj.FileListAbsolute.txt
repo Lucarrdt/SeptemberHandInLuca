@@ -1,0 +1,41 @@
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.csproj.AssemblyReference.cache
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1_MarkupCompile.cache
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1_MarkupCompile.lref
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\bin\Debug\net6.0-windows\SeptemberHandIn1.exe
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\bin\Debug\net6.0-windows\SeptemberHandIn1.deps.json
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\bin\Debug\net6.0-windows\SeptemberHandIn1.runtimeconfig.json
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\bin\Debug\net6.0-windows\SeptemberHandIn1.dll
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\bin\Debug\net6.0-windows\SeptemberHandIn1.pdb
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.g.resources
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.AssemblyInfoInputs.cache
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.AssemblyInfo.cs
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.dll
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\refint\SeptemberHandIn1.dll
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.pdb
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.genruntimeconfig.cache
+C:\Users\Alvaro\RiderProjects\SeptemberHandIn1\SeptemberHandIn1\obj\Debug\net6.0-windows\ref\SeptemberHandIn1.dll
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\bin\Debug\net6.0-windows\SeptemberHandIn1.exe
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\bin\Debug\net6.0-windows\SeptemberHandIn1.deps.json
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\bin\Debug\net6.0-windows\SeptemberHandIn1.runtimeconfig.json
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\bin\Debug\net6.0-windows\SeptemberHandIn1.dll
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\bin\Debug\net6.0-windows\SeptemberHandIn1.pdb
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.csproj.AssemblyReference.cache
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1_MarkupCompile.cache
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.g.resources
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.AssemblyInfoInputs.cache
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.AssemblyInfo.cs
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.dll
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\refint\SeptemberHandIn1.dll
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.pdb
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\SeptemberHandIn1.genruntimeconfig.cache
+C:\Users\Alvaro Riccardi\Desktop\SeptemberHandIn1-master\SeptemberHandIn1\obj\Debug\net6.0-windows\ref\SeptemberHandIn1.dll
